@@ -8,7 +8,7 @@ Data utama yang digunakan telah di-sort sehingga hanya menampilkan data item 'Ri
 ## Visualisasi Data
 1. Bubble chart: menunjukkan total produksi 'Rice (Milled Equivalent)'
 2. Area Chart: menunjukkan data produksii 'Rice (Milled Equivalent)' tahun 2009-2013 yang dikelompokkan berdasarkan sub-region.
-3. Map
+3. Map: Menunjukkan data produksi 'Rice (Milled Equivalent)' per negara yang dibedakan oleh colorscale/colorbar pada tahun 2009-2013
 
 ## Anggota Kelompok
 | Nama                                      | NIM          |
